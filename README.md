@@ -24,7 +24,7 @@ Getting Started
 Prerequisites
 Python 3.8 or higher
 
-Git
+Git https://github.com/Sandeepsaroj362/Alt-text-to-real-context-with-AL
 
 Pip (Python package installer)
 
@@ -33,7 +33,7 @@ Clone the Repository:
 
 bash
 Copy
-git clone
+git clone-https://github.com/Sandeepsaroj362/Alt-text-to-real-context-with-AL
 cd alt-text-to-real-context
 Install Dependencies:
 
